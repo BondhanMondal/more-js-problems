@@ -17,6 +17,6 @@ function smallestElement(numbers) {
             min = element;
         }
     }
-    return min
+    return min;
 }
 
